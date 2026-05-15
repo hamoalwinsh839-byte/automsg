@@ -1,5 +1,4 @@
 import React from "react";
-import { useListLogs, getListLogsQueryKey, useListTasks, getListTasksQueryKey } from "@workspace/api-client-react";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Badge } from "@/components/ui/badge";
